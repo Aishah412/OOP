@@ -1,10 +1,10 @@
 // creating a class
 class Animal{
 constructor(eyes,legs,isAwake,isMoving){
-    this.eyes = eyes,
-    this.legs = legs,
-    this.isAwake = isAwake,
-    this.isMoving = isMoving,
+    this.eyes = eyes;
+    this.legs = legs;
+    this.isAwake = isAwake;
+    this.isMoving = isMoving;
 }
 
 }

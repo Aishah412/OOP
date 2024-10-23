@@ -20,7 +20,7 @@ function incrementCounter() {
     
     setTimeout(incrementCounter, 1000)
 }
-incrementCounter(void)
+incrementCounter()
 
 function flattenArray(arr) {
     return arr.reduce((acc, val) => {
